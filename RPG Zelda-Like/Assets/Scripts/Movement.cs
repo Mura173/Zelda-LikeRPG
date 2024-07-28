@@ -6,10 +6,14 @@ public class Movement : MonoBehaviour
 {
     // Variáveis Inspector
     Animator anim;
+    Animation anima;
     Rigidbody2D rb;
 
     public float speed;
     Vector2 movement;
+    Vector2 lastMovement;
+
+    public float attackDuration = 1f;
 
     void Start()
     {
@@ -19,24 +23,66 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
-
-        anim.SetFloat("horizontal", movement.x);
-        anim.SetFloat("vertical", movement.y);
-        anim.SetFloat("speed", movement.sqrMagnitude);    
+        Movimentacao();
 
         if (movement != Vector2.zero)
         {
-            anim.SetFloat("horizontalIdle", movement.x);
-            anim.SetFloat("verticalIdle", movement.y);
+            IdleAnim();
+            lastMovement = movement; // Armazena última direção do movimento
+        }
+
+        if (Input.GetKey(KeyCode.C))
+        {
+            AttackAnim();
         }
     }
 
     void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
+    }
 
+    void Movimentacao()
+    {
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
 
+        anim.SetFloat("horizontal", movement.x);
+        anim.SetFloat("vertical", movement.y);
+        anim.SetFloat("speed", movement.sqrMagnitude);
+    }
+
+    void IdleAnim()
+    {
+        anim.SetFloat("horizontalIdle", movement.x);
+        anim.SetFloat("verticalIdle", movement.y);
+    }
+
+    void AttackAnim()
+    {
+        // Verifica se a animação de ataque não está em andamento
+        if (!anim.GetBool("isAttacking"))
+        {
+            StartCoroutine(PerformAttack());
+        }
+    }
+
+    IEnumerator PerformAttack()
+    {
+        anim.SetBool("isAttacking", true);
+
+        if (movement == Vector2.zero) // Se o personagem estiver em idle
+        {
+            anim.SetFloat("horizontalAttack", lastMovement.x);
+            anim.SetFloat("verticalAttack", lastMovement.y);
+        }
+        else
+        {
+            anim.SetFloat("horizontalAttack", movement.x);
+            anim.SetFloat("verticalAttack", movement.y);
+        }
+
+        yield return new WaitForSeconds(attackDuration);
+        anim.SetBool("isAttacking", false);
     }
 }

@@ -108,7 +108,763 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245bc6ecaca81d0408e4e5ab1dd0ec71
+      internalID: 1110404417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef9138df43c10479a5db68be3d73f0
+      internalID: -1787035722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9bfe578d93a54db45f953f85d3929
+      internalID: -1087065474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 277
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49510e5f2f8ed284ca8518a3cca5d5ed
+      internalID: -762361370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 276
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da7e5a19d12c0342b2a53e292528405
+      internalID: -1717475203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 276
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98fd2fc61db5f45bca5736a396f407
+      internalID: -1861718995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 275
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78067884042e27b42bd424ea18127267
+      internalID: 1302582152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea668b87b7f1ce34488ab55be0c59892
+      internalID: -960120345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629ec1927f2f014ba5d4799a33523d7
+      internalID: -937570940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb988dbb6ef5d44aa1a51befed1ab9
+      internalID: -1923313221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e3868e3fd03a4cb1c74bb6a437828
+      internalID: 1282735573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed7c2b805ff5b849a596540b9fae45f
+      internalID: 797334721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 188
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990a5c87e571fe4c86b8eedac1f8f71
+      internalID: -234078264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 189
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f5e0155815db4a9fc44b12414ddf9
+      internalID: -439260204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 189
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49088903cca7041aadf924370c4be8
+      internalID: -927125348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 191
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33046c42b3bd7594c85564d294d2e19d
+      internalID: 403432633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cef7df49416604eb7b17946b86a534
+      internalID: 1970130505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_17
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870e173d5c962f439767a545ac7532f
+      internalID: 1136580017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee9379e1ed28745836c53676983cc5
+      internalID: 1590169941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c1104e9f584574a9f670831910258f
+      internalID: 1943445745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5bf59d3552ea64fb8b1940f618b303
+      internalID: 179602496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 110
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c359d30612517e54f8e56a3a60dff80c
+      internalID: 1379402632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d199a4d79973ac45be31d958af971b5
+      internalID: 1510417239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb28393cfdb8644eafaf02983a3acf4
+      internalID: 301492923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc478f563c8157643927562c7cdcc718
+      internalID: -710095740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b94d1216027f3469009aff0b3485ce
+      internalID: -254074579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ef19d9363be74aae3f31497ae60a1
+      internalID: -1806779256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d95aa4eb65da4695efaab6b7afa25
+      internalID: 1968678417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7987f87d4ad854094943c1bbebdb8d
+      internalID: 318985385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5b1e4d97fd874fa47bbeaac304e1b
+      internalID: 1196385417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a480998052d34ca529ae60985140e
+      internalID: 147865201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb18cfd3891c748a7a57267923babe
+      internalID: -881601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be0b9a6bd414354389c2d63b22f4647
+      internalID: 1188848284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b7f89395c64346bdf89e2d7b8530d
+      internalID: -1080167234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_34
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60520a7395d524499fd52e4c68ec71
+      internalID: -1736284078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris Attack (One Hand Weapons)_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782d6ccd713fe5439da2698fdf87789
+      internalID: 807849194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +875,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chris Attack (One Hand Weapons)_0: 1110404417
+      Chris Attack (One Hand Weapons)_1: -1787035722
+      Chris Attack (One Hand Weapons)_10: 1282735573
+      Chris Attack (One Hand Weapons)_11: 797334721
+      Chris Attack (One Hand Weapons)_12: -234078264
+      Chris Attack (One Hand Weapons)_13: -439260204
+      Chris Attack (One Hand Weapons)_14: -927125348
+      Chris Attack (One Hand Weapons)_15: 403432633
+      Chris Attack (One Hand Weapons)_16: 1970130505
+      Chris Attack (One Hand Weapons)_17: 1136580017
+      Chris Attack (One Hand Weapons)_18: 1590169941
+      Chris Attack (One Hand Weapons)_19: 1943445745
+      Chris Attack (One Hand Weapons)_2: -1087065474
+      Chris Attack (One Hand Weapons)_20: 179602496
+      Chris Attack (One Hand Weapons)_21: 1379402632
+      Chris Attack (One Hand Weapons)_22: 1510417239
+      Chris Attack (One Hand Weapons)_23: 301492923
+      Chris Attack (One Hand Weapons)_24: -710095740
+      Chris Attack (One Hand Weapons)_25: -254074579
+      Chris Attack (One Hand Weapons)_26: -1806779256
+      Chris Attack (One Hand Weapons)_27: 1968678417
+      Chris Attack (One Hand Weapons)_28: 318985385
+      Chris Attack (One Hand Weapons)_29: 1196385417
+      Chris Attack (One Hand Weapons)_3: -762361370
+      Chris Attack (One Hand Weapons)_30: 147865201
+      Chris Attack (One Hand Weapons)_31: -881601621
+      Chris Attack (One Hand Weapons)_32: 1188848284
+      Chris Attack (One Hand Weapons)_33: -1080167234
+      Chris Attack (One Hand Weapons)_34: -1736284078
+      Chris Attack (One Hand Weapons)_35: 807849194
+      Chris Attack (One Hand Weapons)_4: -1717475203
+      Chris Attack (One Hand Weapons)_5: -1861718995
+      Chris Attack (One Hand Weapons)_6: 1302582152
+      Chris Attack (One Hand Weapons)_7: -960120345
+      Chris Attack (One Hand Weapons)_8: -937570940
+      Chris Attack (One Hand Weapons)_9: -1923313221
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
