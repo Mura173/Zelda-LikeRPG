@@ -6,7 +6,6 @@ public class Movement : MonoBehaviour
 {
     // Variáveis Inspector
     Animator anim;
-    Animation anima;
     Rigidbody2D rb;
 
     public float speed;
@@ -31,7 +30,7 @@ public class Movement : MonoBehaviour
             lastMovement = movement; // Armazena última direção do movimento
         }
 
-        if (Input.GetKey(KeyCode.C))
+        if (Input.GetKeyDown(KeyCode.C))
         {
             AttackAnim();
         }

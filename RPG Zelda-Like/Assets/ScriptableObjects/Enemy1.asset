@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2721a4ac4cc664b8992d28018e80e0, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  names: Morcego
+  life: 3
+  speed: 2
+  attack: 3
+  animController: {fileID: 9100000, guid: 3dd85d77cbaf69b42ab4b1fc0a817f64, type: 2}
