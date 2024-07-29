@@ -23,16 +23,12 @@ public class Enemy : MonoBehaviour
         life = enemySettings.life;
         speed = enemySettings.speed;
         attack = enemySettings.attack;
-
-        Debug.Log("Inimigo " + names + " inicializado com vida: " + life);
     }
 
     public void ReceberDano()
     {
         this.life--;
-        Debug.Log("Inimigo " + names + " recebeu dano. Vida restante: " + life);
 
-        Debug.Log("Vida restante: " + life);
         if(this.life == 0)
         {
             GameObject.Destroy(this.gameObject);
